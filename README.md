@@ -1,7 +1,7 @@
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
-NAME : KAVIYA D
+NAME : KAVIYA SNEKA M
 
-REGISTER NUMBER : 212223040089
+REGISTER NUMBER : 212223040091
 
 
 ## Aim:
